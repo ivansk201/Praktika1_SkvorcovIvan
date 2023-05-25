@@ -1,0 +1,14 @@
+C:\Users\305-4\Desktop\скворцов\практика1\bin\Debug\практика1.exe.config
+C:\Users\305-4\Desktop\скворцов\практика1\bin\Debug\практика1.exe
+C:\Users\305-4\Desktop\скворцов\практика1\bin\Debug\практика1.pdb
+C:\Users\305-4\Desktop\скворцов\практика1\obj\Debug\практика1.csproj.AssemblyReference.cache
+C:\Users\305-4\Desktop\скворцов\практика1\obj\Debug\практика1.csproj.CoreCompileInputs.cache
+C:\Users\305-4\Desktop\скворцов\практика1\obj\Debug\практика1.exe
+C:\Users\305-4\Desktop\скворцов\практика1\obj\Debug\практика1.pdb
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\bin\Debug\практика1.exe.config
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\bin\Debug\практика1.exe
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\bin\Debug\практика1.pdb
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\obj\Debug\практика1.csproj.AssemblyReference.cache
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\obj\Debug\практика1.csproj.CoreCompileInputs.cache
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\obj\Debug\практика1.exe
+C:\Users\305-4\Desktop\скворцов\Практика\практика1\obj\Debug\практика1.pdb

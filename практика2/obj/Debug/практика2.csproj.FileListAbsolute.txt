@@ -1,0 +1,21 @@
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\bin\Debug\практика2.exe.config
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\bin\Debug\практика2.exe
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\bin\Debug\практика2.pdb
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.csproj.AssemblyReference.cache
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.Form1.resources
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.Properties.Resources.resources
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.csproj.GenerateResource.cache
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.csproj.CoreCompileInputs.cache
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.exe
+C:\Users\305-4\Desktop\скворцов\Практика\практика2\obj\Debug\практика2.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\bin\Debug\практика2.exe.config
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\bin\Debug\практика2.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\bin\Debug\практика2.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.Form1.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.Properties.Resources.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.csproj.GenerateResource.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\практика2\obj\Debug\практика2.pdb
